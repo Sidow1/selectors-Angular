@@ -4,7 +4,7 @@ import { SelectorPageComponent } from './pages/selector-page/selector-page.compo
 
 const routes: Routes = [
   {
-    path: 'selector',
+    path: '',
     children: [
       {
         path: '',
